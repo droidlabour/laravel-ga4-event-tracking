@@ -1,5 +1,5 @@
 {
-    "name": "devpro/laravel-ga4-event-tracking",
+    "name": "droidlabour/laravel-ga4-event-tracking",
     "description": "Simplifies using the Measurement Protocol for Google Analytics 4 to track events in Laravel applications.",
     "license": "MIT",
     "authors": [
